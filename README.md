@@ -9,6 +9,7 @@
 - [ESP-Arduino course](https://github.com/tomas-fryza/esp-arduino)
 - [ESP-Micropython course](https://github.com/tomas-fryza/esp-micropython)
 - [Probe request project](https://github.com/tomas-fryza/probe-request-project)
+- [ESP32 Probe Sniffer-tbravenec](https://gitlab.com/tbravenec/esp32-probe-sniffer)
 ## Závěrečná práce
 - Název: Vývoj embedded zařízení pro monitorování a sběr Wi-Fi probe requestů
 - Název anglicky: Development of embedded device for monitoring and collecting Wi-Fi probe requests
