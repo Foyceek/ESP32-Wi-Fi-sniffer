@@ -11,9 +11,11 @@
 - [Probe request project](https://github.com/tomas-fryza/probe-request-project)
 - [ESP32 Probe Sniffer-tbravenec](https://gitlab.com/tbravenec/esp32-probe-sniffer)
 ## Současný prototyp
-[Zdrojový kód](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/tree/main/ESP-IDF/test4), krátky stisk tlačítka pro posun vpřed, dvojitý stisk posun vzad.
+[Zdrojový kód](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/tree/main/ESP-IDF/test4)
+Krátký stisk tlačítka pro posun vpřed, dvojitý stisk posun vzad.
 
-![circuit_image](https://github.com/user-attachments/assets/7940ba5e-5e57-4182-af59-313cba96d0ef)
+![cirkit_radiotap_1](https://github.com/user-attachments/assets/558d47b1-5c94-41e6-a4a4-1bc2c05e1fe9)
+
 ## Závěrečná práce
 - Název: Vývoj embedded zařízení pro monitorování a sběr Wi-Fi probe requestů
 - Název anglicky: Development of embedded device for monitoring and collecting Wi-Fi probe requests
