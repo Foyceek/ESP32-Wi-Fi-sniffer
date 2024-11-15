@@ -41,6 +41,10 @@ Uprava počtu záznamů na OLED displeji
 
 ![cirkit_radiotap_1](https://github.com/user-attachments/assets/558d47b1-5c94-41e6-a4a4-1bc2c05e1fe9)
 
+Příklad captive portálu po krátkém spuštění snifferu
+
+![CAP_AP](https://github.com/user-attachments/assets/8d05ecc0-101e-42ca-87ed-d28ffb53db6c)
+
 ## Závěrečná práce
 - Název: Vývoj embedded zařízení pro monitorování a sběr Wi-Fi probe requestů
 - Název anglicky: Development of embedded device for monitoring and collecting Wi-Fi probe requests
