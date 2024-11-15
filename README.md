@@ -11,8 +11,33 @@
 - [Probe request project](https://github.com/tomas-fryza/probe-request-project)
 - [ESP32 Probe Sniffer-tbravenec](https://gitlab.com/tbravenec/esp32-probe-sniffer)
 ## Současný prototyp
-[Zdrojový kód](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/tree/main/ESP-IDF/test4)
-Krátký stisk tlačítka pro posun vpřed, dvojitý stisk posun vzad.
+[Zdrojový kód](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/tree/main/ESP-IDF/radiotap_csv_pcap_1)
+
+Obě tlačítka mají každé 4 funkce:
+- Krátký stisk (50-500ms)
+- Střední stisk (500-1000ms)
+- Dlouhý stisk (>1000ms)
+- Dvojtý stisk
+
+Časy se dají měnit
+
+### Funkce pravého tlačítka
+
+Procházení informací na OLED displeji
+
+- Krátký stisk posun vpřed
+- Střední stisk návrat na první záznam
+- Dlouhý stisk vymazání všech záznamů
+- Dvojitý stisk posun vzad
+
+### Funkce pravého tlačítka
+
+Uprava počtu záznamů na OLED displeji
+
+- Krátký stisk +1 záznam
+- Střední stisk obnovetní původního počtu záznamů
+- Dlouhý stisk ukončí sniffer a aktivuje captive portál, další restartuje celé ESP32
+- Dvojitý stisk -1 záznam
 
 ![cirkit_radiotap_1](https://github.com/user-attachments/assets/558d47b1-5c94-41e6-a4a4-1bc2c05e1fe9)
 
