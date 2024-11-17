@@ -1,0 +1,382 @@
+
+### Analysis for Similarity Threshold: 75.0% ###
+Device(1):
+  MAC Addresses: a8:9c:ed:5c:23:2d, 5a:1b:ff:7d:47:9b
+  Preferred SSIDs: ZENATA_2.4G, KAFIRNA, TELOCVICNA, MATRIGO_C578, GYMBOS_ZAM, ZENATA, KolejNet
+Device(2):
+  MAC Addresses: 32:fd:d7:29:a2:a0, 9e:29:53:05:4e:8c
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(3):
+  MAC Addresses: 76:d9:4d:1c:ef:c0, e0:cc:f8:ea:07:2e
+  Preferred SSIDs: TP-LINK_973EFA, POCO M3, bizy.nz.guest
+Device(4):
+  MAC Addresses: 0a:22:6a:ca:47:c1, 1c:cc:d6:48:4e:9c
+  Preferred SSIDs: dlink-F25C_1227-EXT5G, TP-LINK_MV, dlink-F25C_1227, BTBHub6-K7CR, dlink-F25C_1227-EXT, KolejNet, GYMUN
+Device(5):
+  MAC Addresses: 1e:cc:d6:9d:df:59, 1c:cc:d6:fb:9c:75
+  Preferred SSIDs: O2-Internet-631, KolejNet-2.4G, O2-Internet-010, PELIKAN_2G
+Device(6):
+  MAC Addresses: 2a:de:61:3a:70:c6, c2:ef:48:87:44:ce
+  Preferred SSIDs: Orange-F60A, DML
+Device(7):
+  MAC Addresses: e6:b5:84:f8:5f:4b, 86:c7:12:1f:57:fa
+  Preferred SSIDs: Jana wifi, Sajto, Vasik, NAKA hotspot, Hatfa, NAKA
+Device(8):
+  MAC Addresses: 86:8f:ea:80:72:25, 02:65:e6:c4:38:1a
+  Preferred SSIDs: Jana wifi, Sajto, Vasik, NAKA hotspot, Hatfa, NAKA
+Device(9):
+  MAC Addresses: ee:55:66:11:22:55, 16:a4:16:17:f0:2f
+  Preferred SSIDs: Vodafone-CBAA, Vodafone-61CA, DPMBfree, IWAO.cz_Nemcovi, vutbrno, AndroidAP0781, KolejNet, JMK_WiFi
+Device(10):
+  MAC Addresses: 4a:05:aa:e9:e8:e1, 72:de:fb:16:bd:b5
+  Preferred SSIDs: eduroam, CDWiFi
+Device(11):
+  MAC Addresses: 2a:d1:30:1c:e8:2f, 86:49:b6:5c:32:ca
+  Preferred SSIDs: TP-Link_BB8E, Pizzerie-bar, Lhota, Redmi Note 9 Pro, mix, 192.168.12.30, Stavovi, PBSTAGE, JOFI
+Device(12):
+  MAC Addresses: ae:ef:7c:16:7b:61, c8:9b:d7:34:f9:d1
+  Preferred SSIDs: KolejNet-2.4G, eduroam, Coop Intern, novakovi-5G, novakovi-2.4G, ExploNetwork, KolejNet, hacknet, G3
+Device(13):
+  MAC Addresses: da:a1:19:22:3f:5a, da:a1:19:41:5d:07
+  Preferred SSIDs: MiWiFi, KolejNet
+Device(14):
+  MAC Addresses: ea:dc:a0:84:25:45, ea:2c:ad:2d:6c:ac
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(15):
+  MAC Addresses: 00:0c:e7:78:f1:43, 00:0c:e7:a9:04:47
+  Preferred SSIDs: CEITEC Nano, PBH, ENIGMA_5G, bagrikovo, Bagrikovo, ENIGMA, Skacelova, Internet_RPT
+Device(16):
+  MAC Addresses: 00:0c:e7:0c:47:d0, 00:0c:e7:e9:85:35
+  Preferred SSIDs: Internet_RPT, PBH, Skacelova, bagrikovo
+Device(17):
+  MAC Addresses: da:a1:19:f6:4b:ff, da:a1:19:06:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(18):
+  MAC Addresses: da:a1:19:2b:80:34, da:a1:19:2b:38:ec
+  Preferred SSIDs: KSBrno, SPAVOS_NET
+Device(19):
+  MAC Addresses: da:a1:19:1d:cf:83, da:a1:19:5e:7c:30
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(20):
+  MAC Addresses: da:a1:19:38:32:e6, da:a1:19:28:22:d6
+  Preferred SSIDs: Zyxel_9921, KSBrno
+Device(21):
+  MAC Addresses: da:a1:19:f1:59:0d, da:a1:19:3d:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(22):
+  MAC Addresses: da:a1:19:7d:ae:62, da:a1:19:12:9e:89
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(23):
+  MAC Addresses: da:a1:19:ec:78:2c, da:a1:19:0f:2d:18
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(24):
+  MAC Addresses: da:a1:19:de:90:44, da:a1:19:dd:e8:d3
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(25):
+  MAC Addresses: da:a1:19:ee:30:e4, da:a1:19:19:44:e5
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(26):
+  MAC Addresses: da:a1:19:b4:d2:bd, da:a1:19:9d:29:14
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(27):
+  MAC Addresses: 62:2f:81:14:82:bf, e2:87:b9:60:76:1a
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
+Device(28):
+  MAC Addresses: 0a:6a:ca:da:d1:7e, 8e:10:f2:46:3b:77
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
+
+### Analysis for Similarity Threshold: 80.0% ###
+Device(1):
+  MAC Addresses: a8:9c:ed:5c:23:2d, 5a:1b:ff:7d:47:9b
+  Preferred SSIDs: ZENATA_2.4G, KAFIRNA, TELOCVICNA, MATRIGO_C578, GYMBOS_ZAM, ZENATA, KolejNet
+Device(2):
+  MAC Addresses: 32:fd:d7:29:a2:a0, 9e:29:53:05:4e:8c
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(3):
+  MAC Addresses: 76:d9:4d:1c:ef:c0, e0:cc:f8:ea:07:2e
+  Preferred SSIDs: TP-LINK_973EFA, POCO M3, bizy.nz.guest
+Device(4):
+  MAC Addresses: 0a:22:6a:ca:47:c1, 1c:cc:d6:48:4e:9c
+  Preferred SSIDs: dlink-F25C_1227-EXT5G, TP-LINK_MV, dlink-F25C_1227, BTBHub6-K7CR, dlink-F25C_1227-EXT, KolejNet, GYMUN
+Device(5):
+  MAC Addresses: 2a:de:61:3a:70:c6, c2:ef:48:87:44:ce
+  Preferred SSIDs: Orange-F60A, DML
+Device(6):
+  MAC Addresses: e6:b5:84:f8:5f:4b, 86:c7:12:1f:57:fa
+  Preferred SSIDs: Jana wifi, Sajto, Vasik, NAKA hotspot, Hatfa, NAKA
+Device(7):
+  MAC Addresses: 86:8f:ea:80:72:25, 02:65:e6:c4:38:1a
+  Preferred SSIDs: Jana wifi, Sajto, Vasik, NAKA hotspot, Hatfa, NAKA
+Device(8):
+  MAC Addresses: 1e:cc:d6:9d:df:59, 1e:cc:d6:54:d5:17
+  Preferred SSIDs: O2-Internet-631, O2-Internet-010, PELIKAN_2G
+Device(9):
+  MAC Addresses: 4a:05:aa:e9:e8:e1, 72:de:fb:16:bd:b5
+  Preferred SSIDs: eduroam, CDWiFi
+Device(10):
+  MAC Addresses: 16:a4:16:17:f0:2f, aa:74:94:55:d6:09
+  Preferred SSIDs: Vodafone-61CA, IWAO.cz_Nemcovi, vutbrno, AndroidAP0781, KolejNet, JMK_WiFi
+Device(11):
+  MAC Addresses: ae:ef:7c:16:7b:61, c8:9b:d7:34:f9:d1
+  Preferred SSIDs: KolejNet-2.4G, eduroam, Coop Intern, novakovi-5G, novakovi-2.4G, ExploNetwork, KolejNet, hacknet, G3
+Device(12):
+  MAC Addresses: da:a1:19:22:3f:5a, da:a1:19:41:5d:07
+  Preferred SSIDs: MiWiFi, KolejNet
+Device(13):
+  MAC Addresses: ea:dc:a0:84:25:45, ea:2c:ad:2d:6c:ac
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(14):
+  MAC Addresses: 00:0c:e7:78:f1:43, 00:0c:e7:a9:04:47
+  Preferred SSIDs: CEITEC Nano, PBH, ENIGMA_5G, bagrikovo, Bagrikovo, ENIGMA, Skacelova, Internet_RPT
+Device(15):
+  MAC Addresses: da:a1:19:f6:4b:ff, da:a1:19:06:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(16):
+  MAC Addresses: da:a1:19:2b:80:34, da:a1:19:2b:38:ec
+  Preferred SSIDs: KSBrno, SPAVOS_NET
+Device(17):
+  MAC Addresses: da:a1:19:1d:cf:83, da:a1:19:5e:7c:30
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(18):
+  MAC Addresses: da:a1:19:38:32:e6, da:a1:19:28:22:d6
+  Preferred SSIDs: Zyxel_9921, KSBrno
+Device(19):
+  MAC Addresses: da:a1:19:f1:59:0d, da:a1:19:3d:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(20):
+  MAC Addresses: da:a1:19:7d:ae:62, da:a1:19:12:9e:89
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(21):
+  MAC Addresses: da:a1:19:ec:78:2c, da:a1:19:0f:2d:18
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(22):
+  MAC Addresses: da:a1:19:de:90:44, da:a1:19:dd:e8:d3
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(23):
+  MAC Addresses: da:a1:19:ee:30:e4, da:a1:19:19:44:e5
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(24):
+  MAC Addresses: da:a1:19:b4:d2:bd, da:a1:19:9d:29:14
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(25):
+  MAC Addresses: 62:2f:81:14:82:bf, e2:87:b9:60:76:1a
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
+Device(26):
+  MAC Addresses: 0a:6a:ca:da:d1:7e, 8e:10:f2:46:3b:77
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
+
+### Analysis for Similarity Threshold: 85.0% ###
+Device(1):
+  MAC Addresses: a8:9c:ed:5c:23:2d, 5a:1b:ff:7d:47:9b
+  Preferred SSIDs: ZENATA_2.4G, KAFIRNA, TELOCVICNA, MATRIGO_C578, GYMBOS_ZAM, ZENATA, KolejNet
+Device(2):
+  MAC Addresses: 32:fd:d7:29:a2:a0, 9e:29:53:05:4e:8c
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(3):
+  MAC Addresses: 76:d9:4d:1c:ef:c0, e0:cc:f8:ea:07:2e
+  Preferred SSIDs: TP-LINK_973EFA, POCO M3, bizy.nz.guest
+Device(4):
+  MAC Addresses: 0a:22:6a:ca:47:c1, 1c:cc:d6:48:4e:9c
+  Preferred SSIDs: dlink-F25C_1227-EXT5G, TP-LINK_MV, dlink-F25C_1227, BTBHub6-K7CR, dlink-F25C_1227-EXT, KolejNet, GYMUN
+Device(5):
+  MAC Addresses: 2a:de:61:3a:70:c6, c2:ef:48:87:44:ce
+  Preferred SSIDs: Orange-F60A, DML
+Device(6):
+  MAC Addresses: 3e:16:2c:f1:05:b8, e6:b5:84:f8:5f:4b
+  Preferred SSIDs: Jana wifi, Sajto, NAKA hotspot, Hatfa, NAKA
+Device(7):
+  MAC Addresses: 1e:cc:d6:9d:df:59, 1e:cc:d6:54:d5:17
+  Preferred SSIDs: O2-Internet-631, O2-Internet-010, PELIKAN_2G
+Device(8):
+  MAC Addresses: 4a:05:aa:e9:e8:e1, 72:de:fb:16:bd:b5
+  Preferred SSIDs: eduroam, CDWiFi
+Device(9):
+  MAC Addresses: ae:ef:7c:16:7b:61, c8:9b:d7:34:f9:d1
+  Preferred SSIDs: KolejNet-2.4G, eduroam, Coop Intern, novakovi-5G, novakovi-2.4G, ExploNetwork, KolejNet, hacknet, G3
+Device(10):
+  MAC Addresses: da:a1:19:22:3f:5a, da:a1:19:41:5d:07
+  Preferred SSIDs: MiWiFi, KolejNet
+Device(11):
+  MAC Addresses: ea:dc:a0:84:25:45, ea:2c:ad:2d:6c:ac
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(12):
+  MAC Addresses: 00:0c:e7:78:f1:43, 00:0c:e7:a9:04:47
+  Preferred SSIDs: CEITEC Nano, PBH, ENIGMA_5G, bagrikovo, Bagrikovo, ENIGMA, Skacelova, Internet_RPT
+Device(13):
+  MAC Addresses: da:a1:19:f6:4b:ff, da:a1:19:06:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(14):
+  MAC Addresses: da:a1:19:2b:80:34, da:a1:19:2b:38:ec
+  Preferred SSIDs: KSBrno, SPAVOS_NET
+Device(15):
+  MAC Addresses: da:a1:19:1d:cf:83, da:a1:19:5e:7c:30
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(16):
+  MAC Addresses: da:a1:19:38:32:e6, da:a1:19:28:22:d6
+  Preferred SSIDs: Zyxel_9921, KSBrno
+Device(17):
+  MAC Addresses: da:a1:19:f1:59:0d, da:a1:19:3d:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(18):
+  MAC Addresses: da:a1:19:7d:ae:62, da:a1:19:12:9e:89
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(19):
+  MAC Addresses: da:a1:19:ec:78:2c, da:a1:19:0f:2d:18
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(20):
+  MAC Addresses: da:a1:19:de:90:44, da:a1:19:dd:e8:d3
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(21):
+  MAC Addresses: da:a1:19:ee:30:e4, da:a1:19:19:44:e5
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(22):
+  MAC Addresses: da:a1:19:b4:d2:bd, da:a1:19:9d:29:14
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(23):
+  MAC Addresses: 62:2f:81:14:82:bf, e2:87:b9:60:76:1a
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
+Device(24):
+  MAC Addresses: 0a:6a:ca:da:d1:7e, 8e:10:f2:46:3b:77
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
+
+### Analysis for Similarity Threshold: 90.0% ###
+Device(1):
+  MAC Addresses: e2:aa:95:f4:27:8f, 5a:1b:ff:7d:47:9b
+  Preferred SSIDs: ZENATA_2.4G, KAFIRNA, TELOCVICNA, MATRIGO_C578, GYMBOS_ZAM, ZENATA
+Device(2):
+  MAC Addresses: 32:fd:d7:29:a2:a0, 9e:29:53:05:4e:8c
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(3):
+  MAC Addresses: 76:d9:4d:1c:ef:c0, e0:cc:f8:ea:07:2e
+  Preferred SSIDs: TP-LINK_973EFA, POCO M3, bizy.nz.guest
+Device(4):
+  MAC Addresses: 2a:de:61:3a:70:c6, c2:ef:48:87:44:ce
+  Preferred SSIDs: Orange-F60A, DML
+Device(5):
+  MAC Addresses: 3e:16:2c:f1:05:b8, e6:b5:84:f8:5f:4b
+  Preferred SSIDs: Jana wifi, Sajto, NAKA hotspot, Hatfa, NAKA
+Device(6):
+  MAC Addresses: 1e:cc:d6:9d:df:59, 1e:cc:d6:54:d5:17
+  Preferred SSIDs: O2-Internet-631, O2-Internet-010, PELIKAN_2G
+Device(7):
+  MAC Addresses: 4a:05:aa:e9:e8:e1, 72:de:fb:16:bd:b5
+  Preferred SSIDs: eduroam, CDWiFi
+Device(8):
+  MAC Addresses: ae:ef:7c:16:7b:61, c8:9b:d7:34:f9:d1
+  Preferred SSIDs: KolejNet-2.4G, eduroam, Coop Intern, novakovi-5G, novakovi-2.4G, ExploNetwork, KolejNet, hacknet, G3
+Device(9):
+  MAC Addresses: da:a1:19:22:3f:5a, da:a1:19:41:5d:07
+  Preferred SSIDs: MiWiFi, KolejNet
+Device(10):
+  MAC Addresses: ea:dc:a0:84:25:45, ea:2c:ad:2d:6c:ac
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(11):
+  MAC Addresses: 00:0c:e7:78:f1:43, 00:0c:e7:a9:04:47
+  Preferred SSIDs: CEITEC Nano, PBH, ENIGMA_5G, bagrikovo, Bagrikovo, ENIGMA, Skacelova, Internet_RPT
+Device(12):
+  MAC Addresses: da:a1:19:f6:4b:ff, da:a1:19:06:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(13):
+  MAC Addresses: da:a1:19:2b:80:34, da:a1:19:2b:38:ec
+  Preferred SSIDs: KSBrno, SPAVOS_NET
+Device(14):
+  MAC Addresses: da:a1:19:1d:cf:83, da:a1:19:5e:7c:30
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(15):
+  MAC Addresses: da:a1:19:38:32:e6, da:a1:19:28:22:d6
+  Preferred SSIDs: Zyxel_9921, KSBrno
+Device(16):
+  MAC Addresses: da:a1:19:f1:59:0d, da:a1:19:3d:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(17):
+  MAC Addresses: da:a1:19:7d:ae:62, da:a1:19:12:9e:89
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(18):
+  MAC Addresses: da:a1:19:ec:78:2c, da:a1:19:0f:2d:18
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(19):
+  MAC Addresses: da:a1:19:de:90:44, da:a1:19:dd:e8:d3
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(20):
+  MAC Addresses: da:a1:19:ee:30:e4, da:a1:19:19:44:e5
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(21):
+  MAC Addresses: da:a1:19:b4:d2:bd, da:a1:19:9d:29:14
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(22):
+  MAC Addresses: 62:2f:81:14:82:bf, e2:87:b9:60:76:1a
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
+Device(23):
+  MAC Addresses: 0a:6a:ca:da:d1:7e, 8e:10:f2:46:3b:77
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
+
+### Analysis for Similarity Threshold: 95.0% ###
+Device(1):
+  MAC Addresses: e2:aa:95:f4:27:8f, 5a:1b:ff:7d:47:9b
+  Preferred SSIDs: ZENATA_2.4G, KAFIRNA, TELOCVICNA, MATRIGO_C578, GYMBOS_ZAM, ZENATA
+Device(2):
+  MAC Addresses: 32:fd:d7:29:a2:a0, 9e:29:53:05:4e:8c
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(3):
+  MAC Addresses: 76:d9:4d:1c:ef:c0, e0:cc:f8:ea:07:2e
+  Preferred SSIDs: TP-LINK_973EFA, POCO M3, bizy.nz.guest
+Device(4):
+  MAC Addresses: 2a:de:61:3a:70:c6, c2:ef:48:87:44:ce
+  Preferred SSIDs: Orange-F60A, DML
+Device(5):
+  MAC Addresses: 3e:16:2c:f1:05:b8, e6:b5:84:f8:5f:4b
+  Preferred SSIDs: Jana wifi, Sajto, NAKA hotspot, Hatfa, NAKA
+Device(6):
+  MAC Addresses: 1e:cc:d6:9d:df:59, 1e:cc:d6:54:d5:17
+  Preferred SSIDs: O2-Internet-631, O2-Internet-010, PELIKAN_2G
+Device(7):
+  MAC Addresses: 4a:05:aa:e9:e8:e1, 72:de:fb:16:bd:b5
+  Preferred SSIDs: eduroam, CDWiFi
+Device(8):
+  MAC Addresses: ae:ef:7c:16:7b:61, c8:9b:d7:34:f9:d1
+  Preferred SSIDs: KolejNet-2.4G, eduroam, Coop Intern, novakovi-5G, novakovi-2.4G, ExploNetwork, KolejNet, hacknet, G3
+Device(9):
+  MAC Addresses: da:a1:19:22:3f:5a, da:a1:19:41:5d:07
+  Preferred SSIDs: MiWiFi, KolejNet
+Device(10):
+  MAC Addresses: ea:dc:a0:84:25:45, ea:2c:ad:2d:6c:ac
+  Preferred SSIDs: ESP32_CAPTIVE_AP, Redmi Note 8 Pro
+Device(11):
+  MAC Addresses: 00:0c:e7:78:f1:43, 00:0c:e7:a9:04:47
+  Preferred SSIDs: CEITEC Nano, PBH, ENIGMA_5G, bagrikovo, Bagrikovo, ENIGMA, Skacelova, Internet_RPT
+Device(12):
+  MAC Addresses: da:a1:19:f6:4b:ff, da:a1:19:06:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(13):
+  MAC Addresses: da:a1:19:2b:80:34, da:a1:19:2b:38:ec
+  Preferred SSIDs: KSBrno, SPAVOS_NET
+Device(14):
+  MAC Addresses: da:a1:19:1d:cf:83, da:a1:19:5e:7c:30
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(15):
+  MAC Addresses: da:a1:19:38:32:e6, da:a1:19:28:22:d6
+  Preferred SSIDs: Zyxel_9921, KSBrno
+Device(16):
+  MAC Addresses: da:a1:19:f1:59:0d, da:a1:19:3d:24:d8
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(17):
+  MAC Addresses: da:a1:19:7d:ae:62, da:a1:19:12:9e:89
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(18):
+  MAC Addresses: da:a1:19:ec:78:2c, da:a1:19:0f:2d:18
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(19):
+  MAC Addresses: da:a1:19:de:90:44, da:a1:19:dd:e8:d3
+  Preferred SSIDs: Zyxel_9921, SPAVOS_NET
+Device(20):
+  MAC Addresses: da:a1:19:ee:30:e4, da:a1:19:19:44:e5
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(21):
+  MAC Addresses: da:a1:19:b4:d2:bd, da:a1:19:9d:29:14
+  Preferred SSIDs: Zyxel_9921, KSBrno, SPAVOS_NET
+Device(22):
+  MAC Addresses: 62:2f:81:14:82:bf, e2:87:b9:60:76:1a
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
+Device(23):
+  MAC Addresses: 0a:6a:ca:da:d1:7e, 8e:10:f2:46:3b:77
+  Preferred SSIDs: weefee_2G_guest, UPC0677608, Cybertron, PONIKY_WIFI
