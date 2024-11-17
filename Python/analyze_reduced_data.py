@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-import csv
 from collections import Counter
 from datetime import timedelta
 
