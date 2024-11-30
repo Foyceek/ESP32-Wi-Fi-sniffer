@@ -11,7 +11,7 @@
 - [Probe request project](https://github.com/tomas-fryza/probe-request-project)
 - [ESP32 Probe Sniffer-tbravenec](https://gitlab.com/tbravenec/esp32-probe-sniffer)
 ## Současný prototyp
-[Zdrojový kód](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/tree/main/ESP-IDF/radiotap_csv_pcap_1)
+[Zdrojový kód](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/tree/main/ESP-IDF/radiotap_csv_pcap_2)
 
 Obě tlačítka mají každé 4 funkce:
 - Krátký stisk (50-500ms)
@@ -19,7 +19,7 @@ Obě tlačítka mají každé 4 funkce:
 - Dlouhý stisk (>1000ms)
 - Dvojtý stisk
 
-Časy se dají měnit
+Časy se dají měnit, současné stisknutí obou tlačítek po dobu alespoň 2s restartuje celé ESP32.
 
 ### Funkce pravého tlačítka
 
@@ -27,7 +27,7 @@ Procházení informací na OLED displeji
 
 - Krátký stisk posun vpřed
 - Střední stisk návrat na první záznam
-- Dlouhý stisk vymazání všech záznamů
+- Dlouhý stisk přepínání mezi dobou vypnutí OLED při nečinnosti 5s nebo 30s
 - Dvojitý stisk posun vzad
 
 ### Funkce pravého tlačítka
@@ -36,7 +36,7 @@ Uprava počtu záznamů na OLED displeji
 
 - Krátký stisk +1 záznam
 - Střední stisk obnovetní původního počtu záznamů
-- Dlouhý stisk ukončí sniffer a aktivuje captive portál, další restartuje celé ESP32
+- Dlouhý stisk přepíná mezi zachytáváním probe requestů a spuštění webserveru s možností stažení sesbíraných dat.
 - Dvojitý stisk -1 záznam
 
 ![cirkit_radiotap_1](https://github.com/user-attachments/assets/558d47b1-5c94-41e6-a4a4-1bc2c05e1fe9)
