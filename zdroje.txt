@@ -1,1 +1,2 @@
 https://en.wikipedia.org/wiki/IEEE_802.11
+https://en.wikipedia.org/wiki/MAC_address#/media/File:MAC-48_Address.svg
