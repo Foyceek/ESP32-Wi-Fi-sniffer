@@ -1,4 +1,0 @@
-dependencies:
-  espressif/mdns: "*"
-  lvgl/lvgl: "~8.3.0"
-  esp_lvgl_port: "^1"
