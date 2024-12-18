@@ -1,0 +1,11 @@
+idf_component_register(SRCS "main.c"
+                            "pcap.c"
+                            "pcap_lib.c"
+                            "sniffer.c"
+                            "wifi_connect.c"
+                            "button_manager.c"
+                            "button.c"
+                            "i2c_oled.c"
+                            "server.c"
+                            "miniz.c"
+                    INCLUDE_DIRS ".")
