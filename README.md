@@ -11,7 +11,9 @@
 - [Probe request project](https://github.com/tomas-fryza/probe-request-project)
 - [ESP32 Probe Sniffer-tbravenec](https://gitlab.com/tbravenec/esp32-probe-sniffer)
 ## Současný prototyp
-[Zdrojový kód snifferu](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/tree/main/ESP-IDF/radiotap_csv_pcap_3)  [Zdrojový kód aplikace](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/blob/main/Python/README.md)
+[Zdrojový kód snifferu](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/tree/main/ESP-IDF/radiotap_csv_pcap_3)
+
+[Zdrojový kód aplikace](https://github.com/Foyceek/ESP32-Wi-Fi-sniffer/blob/main/Python/README.md)
 
 Obě tlačítka mají každé 4 funkce:
 - Krátký stisk (50-500ms)
