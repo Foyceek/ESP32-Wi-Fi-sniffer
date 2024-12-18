@@ -29,7 +29,7 @@ Procházení informací na OLED displeji
 
 - Krátký stisk posun vpřed
 - Střední stisk návrat na první záznam
-- Dlouhý stisk přepínání mezi dobou vypnutí OLED při nečinnosti 5s nebo 30s
+- Dlouhý stisk přepínání mezi dobou vypnutí OLED při nečinnosti 5s, 30s nebo 1h
 - Dvojitý stisk posun vzad
 
 ### Funkce pravého tlačítka
@@ -40,6 +40,12 @@ Uprava počtu záznamů na OLED displeji
 - Střední stisk obnovetní původního počtu záznamů
 - Dlouhý stisk přepíná mezi zachytáváním probe requestů a spuštění webserveru s možností stažení sesbíraných dat.
 - Dvojitý stisk -1 záznam
+
+### Prostor pro zlepšení
+- Debug tvorby ZIP archivu
+- Python - přidat funkce
+
+### Fotodokumentace
 
 ![cirkit_radiotap_1](https://github.com/user-attachments/assets/558d47b1-5c94-41e6-a4a4-1bc2c05e1fe9)
 
