@@ -45,6 +45,8 @@ Příklad captive portálu po krátkém spuštění snifferu
 
 ![CAP_AP](https://github.com/user-attachments/assets/8d05ecc0-101e-42ca-87ed-d28ffb53db6c)
 
+![Prototyp](https://github.com/user-attachments/assets/c92969a9-bd53-4d98-9b29-4a28ecc01424)
+
 ## Závěrečná práce
 - Název: Vývoj embedded zařízení pro monitorování a sběr Wi-Fi probe requestů
 - Název anglicky: Development of embedded device for monitoring and collecting Wi-Fi probe requests
