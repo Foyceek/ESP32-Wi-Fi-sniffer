@@ -1,4 +1,4 @@
-![instructions](https://github.com/user-attachments/assets/044027fe-5562-4077-9a63-6cb3843f9cae)
+![instructions](https://github.com/user-attachments/assets/f28f994d-1445-497b-8cf5-a85c4b1ecbaf)
 
 ![setup](https://github.com/user-attachments/assets/81db25ce-2202-4c6f-86d4-bd7ec2dd9b5c)
 
