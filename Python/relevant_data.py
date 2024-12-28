@@ -2,7 +2,6 @@ import csv
 from scapy.all import rdpcap, Dot11
 import string
 from datetime import datetime
-from collections import defaultdict
 
 def extract_probe_requests(pcap_file, output_csv):
     # Read the pcap file
