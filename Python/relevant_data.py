@@ -66,6 +66,3 @@ def extract_probe_requests(pcap_file, output_csv):
         # Write sorted device data
         for entry in all_entries:
             writer.writerow(entry[:-1])  # Exclude the timestamp column from the output
-    # print("Done")
-
-# extract_probe_requests(r"C:\Franta\VUT\5_semestr\SEP\night_capture\analyzed_output\combined_output.pcap", r"C:\Franta\VUT\5_semestr\SEP\night_capture\analyzed_output\relevant_data.csv")
