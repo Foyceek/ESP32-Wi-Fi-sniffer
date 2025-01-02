@@ -21,7 +21,7 @@ Obě tlačítka mají každé 4 funkce:
 - Dlouhý stisk (>1000ms)
 - Dvojtý stisk
 
-Časy se dají měnit, současné stisknutí obou tlačítek po dobu alespoň 2s restartuje celé ESP32.
+Časy se dají měnit, současné stisknutí obou tlačítek po dobu alespoň 2s zastaví aplikaci aby bylo možné bezpečně odpojit napájení.
 
 ### Funkce pravého tlačítka
 
@@ -40,10 +40,6 @@ Uprava počtu záznamů na OLED displeji
 - Střední stisk obnovetní původního počtu záznamů
 - Dlouhý stisk přepíná mezi zachytáváním probe requestů a spuštění webserveru s možností stažení sesbíraných dat.
 - Dvojitý stisk -1 záznam
-
-### Prostor pro zlepšení
-- Debug tvorby ZIP archivu
-- Python - přidat funkce
 
 ### Fotodokumentace
 
