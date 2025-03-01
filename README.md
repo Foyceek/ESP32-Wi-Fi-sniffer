@@ -23,7 +23,7 @@ Obě tlačítka mají každé 4 funkce:
 
 Časy se dají měnit, současné stisknutí obou tlačítek po dobu alespoň 2s zastaví aplikaci aby bylo možné bezpečně odpojit napájení.
 
-### Funkce pravého tlačítka
+### Funkce horního tlačítka
 
 Procházení informací na OLED displeji
 
@@ -32,7 +32,7 @@ Procházení informací na OLED displeji
 - Dlouhý stisk přepínání mezi dobou vypnutí OLED při nečinnosti 5s, 30s nebo 1h
 - Dvojitý stisk posun vzad
 
-### Funkce pravého tlačítka
+### Funkce dolního tlačítka
 
 Uprava počtu záznamů na OLED displeji
 
