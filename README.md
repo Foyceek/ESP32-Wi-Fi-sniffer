@@ -43,17 +43,25 @@ Uprava počtu záznamů na OLED displeji
 
 ### Fotodokumentace
 
-![cirkit_radiotap_1](https://github.com/user-attachments/assets/558d47b1-5c94-41e6-a4a4-1bc2c05e1fe9)
+![zapojeni](https://github.com/user-attachments/assets/65e7d7c3-b3d8-4aaf-93ca-ba332e7c353a)
+
+![brd](https://github.com/user-attachments/assets/0920484b-47d3-49ab-9737-f8c021d58a87)
 
 Příklad captive portálu po krátkém spuštění snifferu
 
-![CAP_AP](https://github.com/user-attachments/assets/8d05ecc0-101e-42ca-87ed-d28ffb53db6c)
+![webserver1](https://github.com/user-attachments/assets/3068ae53-b7ea-4c9d-baa8-b5977e8c148a)
 
-![Prototyp1](https://github.com/user-attachments/assets/c92969a9-bd53-4d98-9b29-4a28ecc01424)
+![webserver2](https://github.com/user-attachments/assets/e1f520cb-aff8-40c8-8ad3-43ccf60fcaa1)
 
-![Prototyp2](https://github.com/user-attachments/assets/553a48cf-5b35-4249-b05f-6d622c1f183f)
+![webserver3](https://github.com/user-attachments/assets/c27f43d3-2081-4254-9722-95c961d4f85b)
 
-![Prototyp3](https://github.com/user-attachments/assets/bb4b56c4-5db7-492e-9b2a-b4e0cf100bb0)
+![cover](https://github.com/user-attachments/assets/2015fd8f-3917-49bc-b3e5-515400cd47ba)
+
+![front_left](https://github.com/user-attachments/assets/cd16d14e-1ad9-4449-83fd-e3f99a581656)
+
+![back](https://github.com/user-attachments/assets/ba73f930-5efb-40a1-aba5-03c768b71ad5)
+
+
 
 ## Závěrečná práce
 - Název: Vývoj embedded zařízení pro monitorování a sběr Wi-Fi probe requestů
