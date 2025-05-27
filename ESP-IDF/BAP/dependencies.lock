@@ -1,0 +1,35 @@
+dependencies:
+  espressif/mdns:
+    component_hash: af6306fe65d637a3683d1cf671508fcedd6b05f9ca029a8815abeab64001fb8d
+    dependencies:
+    - name: idf
+      registry_url: https://components.espressif.com
+      require: private
+      version: '>=5.0'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 1.4.0
+  idf:
+    source:
+      type: idf
+    version: 5.3.1
+  u8g2:
+    dependencies: []
+    source:
+      path: C:\Franta\VUT\5_semestr\ESP-IDF\BAP_6\main\managed_components\u8g2
+      type: local
+    version: '*'
+  u8g2-hal-esp-idf:
+    dependencies: []
+    source:
+      path: C:\Franta\VUT\5_semestr\ESP-IDF\BAP_6\main\managed_components\u8g2-hal-esp-idf
+      type: local
+    version: '*'
+direct_dependencies:
+- espressif/mdns
+- u8g2
+- u8g2-hal-esp-idf
+manifest_hash: 6611e8c673bab36afe98e026f8a5cbd4dc1ae239ec942a07c9d258dd545feeef
+target: esp32
+version: 2.0.0
