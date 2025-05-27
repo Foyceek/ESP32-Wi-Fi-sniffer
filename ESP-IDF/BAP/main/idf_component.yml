@@ -1,0 +1,6 @@
+dependencies:
+  espressif/mdns: "*"
+  u8g2:
+    path: ./managed_components/u8g2
+  u8g2-hal-esp-idf:
+    path: ./managed_components/u8g2-hal-esp-idf
