@@ -55,7 +55,7 @@ Příklad captive portálu po krátkém spuštění snifferu
 
 ![server3](https://github.com/user-attachments/assets/3365ed92-6d4b-4bcf-a7f9-df0f376b8b1d)
 
-![odber](https://github.com/user-attachments/assets/50aced74-68ac-484c-b7ab-eeedc9c247ff)
+![odber_title](https://github.com/user-attachments/assets/81ea0516-034d-4ba1-acc5-46682f03c7f8)
 
 ![cover](https://github.com/user-attachments/assets/2015fd8f-3917-49bc-b3e5-515400cd47ba)
 
