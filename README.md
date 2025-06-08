@@ -49,11 +49,11 @@ Uprava počtu záznamů na OLED displeji
 
 Příklad captive portálu po krátkém spuštění snifferu
 
-![webserver1](https://github.com/user-attachments/assets/3068ae53-b7ea-4c9d-baa8-b5977e8c148a)
+![server1](https://github.com/user-attachments/assets/6a84b53f-39b7-4a1f-9683-0bcdcdfa014b)
 
-![webserver2](https://github.com/user-attachments/assets/e1f520cb-aff8-40c8-8ad3-43ccf60fcaa1)
+![server2](https://github.com/user-attachments/assets/f39c349e-f5ec-4509-88af-fab7db7d953b)
 
-![webserver3](https://github.com/user-attachments/assets/c27f43d3-2081-4254-9722-95c961d4f85b)
+![server3](https://github.com/user-attachments/assets/3365ed92-6d4b-4bcf-a7f9-df0f376b8b1d)
 
 ![cover](https://github.com/user-attachments/assets/2015fd8f-3917-49bc-b3e5-515400cd47ba)
 
