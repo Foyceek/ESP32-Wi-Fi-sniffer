@@ -1,0 +1,10 @@
+dependencies:
+  idf: ">=4.4.0"
+  
+  u8g2:
+    git: "https://github.com/olikraus/u8g2.git"
+    
+  espressif/mdns: "*"
+
+  u8g2-hal-esp-idf:
+    path: ./components/u8g2-hal-esp-idf

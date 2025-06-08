@@ -1,0 +1,38 @@
+dependencies:
+  espressif/mdns:
+    component_hash: af6306fe65d637a3683d1cf671508fcedd6b05f9ca029a8815abeab64001fb8d
+    dependencies:
+    - name: idf
+      registry_url: https://components.espressif.com
+      require: private
+      version: '>=5.0'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 1.4.0
+  idf:
+    source:
+      type: idf
+    version: 5.3.1
+  u8g2:
+    component_hash: 9300b2842af813d0f4d91f3acf2f7c56f643f7242544b829cc2b02426960bb37
+    dependencies: []
+    source:
+      git: https://github.com/olikraus/u8g2.git
+      path: .
+      type: git
+    version: 44bfa99efd49ae22d94a6cd569e3924b6b22bdc2
+  u8g2-hal-esp-idf:
+    dependencies: []
+    source:
+      path: C:\Franta\VUT\6_semestr\BAP\Hecl_BP_2024_25\246827_Hecl_prilohy\PrilohaB\ESP32_Wi-Fi_SNIFFER\main\components\u8g2-hal-esp-idf
+      type: local
+    version: '*'
+direct_dependencies:
+- espressif/mdns
+- idf
+- u8g2
+- u8g2-hal-esp-idf
+manifest_hash: ef53d2b38f2c5e49ef22e29088a43250a474c6f0b1a8b45796e03573aa867afb
+target: esp32
+version: 2.0.0
